@@ -9,7 +9,7 @@
 - install and put in your resources
 - add this line in your **server.cfg** :
 ```
-$ ensure scratch_ticket
+ ensure scratch_ticket
 ```
 
 **QBCore**

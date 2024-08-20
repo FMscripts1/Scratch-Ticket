@@ -8,9 +8,8 @@
 
 - install and put in your resources
 - add this line in your **server.cfg** :
-```
- ensure scratch_ticket
-```
+
+        ensure scratch_ticket
 
 **QBCore**
 - put all **images**  (in your scratch-ticket/images) in **resources\[qb]\qb-inventory\html\images**.
@@ -23,6 +22,7 @@ and you can add your own tickets items
 
 ## FrameWork
 [QBCore Free | Github](https://github.com/qbcore-framework/qb-core)
+[ESX free | Github](https://github.com/esx-framework)
 
 ## Socials
 
